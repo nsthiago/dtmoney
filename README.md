@@ -7,9 +7,9 @@ como Styled Components, MirageJS, Context API, hooks, Axios e muito mais
 
 ## 📷 Screen Shots
 <div align="center">
-   <img src="./assets/screen-01.png" alt="imagem do Projeto"/> 
+   <img src="./assets/screen-01.PNG" alt="imagem do Projeto"/> 
    </br>
-      <img src="./assets/screen-02.png" alt="imagem do Projeto"/> 
+      <img src="./assets/screen-02.PNG" alt="imagem do Projeto"/> 
    </br>
 </div>
 
